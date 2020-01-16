@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533390804830",
+    "firebase_url": "https://wuzzy-fd859.firebaseio.com",
+    "project_id": "wuzzy-fd859",
+    "storage_bucket": "wuzzy-fd859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533390804830:android:bf93242dfb7325ff59b1cf",
+        "android_client_info": {
+          "package_name": "com.dnasolution.wuzzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533390804830-c7ob3gqet24e09n7olj0hjuk6h4oemjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe5JxUDlIih1PkIb_mOzldDmlMSW4Cd-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533390804830-c7ob3gqet24e09n7olj0hjuk6h4oemjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
